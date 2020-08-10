@@ -1,4 +1,5 @@
 // This file is LGPL3 Licensed
+Zoracles Developers
 pragma solidity ^0.6.1;
 
 /**
